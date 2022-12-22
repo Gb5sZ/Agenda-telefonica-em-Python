@@ -1,5 +1,5 @@
-# Agenda-telefonica-em-Phyton
-Agenda telefonica em phyton, é necessario jupyter notebook para que funcione.
+# Agenda-telefonica-em-Python
+Agenda telefonica em Python, é necessario jupyter notebook para que funcione.
 
 O arquivo main.py roda o programa.
 
